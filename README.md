@@ -5,7 +5,11 @@ Backend .env file
 
 MONGODB_URI = 
 TOKEN_SECRET_KEY = 
-FRONTEND_URL
+FRONTEND_URL =
+
+For Payment 
+STRIPE_SECRET_KEY=
+STRIPE_ENPOINT_WEBHOOK_SECRET_KEY =
 
 Frontend .env file
 
